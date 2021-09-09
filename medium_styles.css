@@ -1,0 +1,19 @@
+.container{
+    background-color: cornsilk;
+    overflow:scroll;
+    width:100%;
+    height:250px;
+}
+
+.header{
+    background-color: purple;
+    color: white;
+    position:fixed;
+    width:98%
+}
+
+.info {
+    position:static;
+}
+
+
