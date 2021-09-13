@@ -7,9 +7,9 @@
 
 .header{
     background-color: purple;
-    color: white;
+    color: rgb(14, 119, 238);
     position:fixed;
-    width:98%
+    width:100%
 }
 
 .info {
